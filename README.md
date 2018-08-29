@@ -9,4 +9,4 @@ In order to make templates visible for Xcode:
 
 2. Copy .xctemplate file to newly created catalog
 
-`mv View.xctemplate ~/Library/Developer/Xcode/Templates/File Templates/`
+`mv View.xctemplate ~/Library/Developer/Xcode/Templates/File\ Templates/`
